@@ -1,0 +1,3 @@
+Designed, synthesized and checked proper functioning on spartan 6 series FPGA of two traffic signals separated by few meters. Synchronised the two signals such that the second signal works after 3 seconds and in the window of the first signal. Frequency divider logic was written to bring the frequency down from 100MHz to 1 Hz. 
+
+The code was written in Verilog, simulation and synthesis were carried out in Xilinx.
